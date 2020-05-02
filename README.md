@@ -48,7 +48,7 @@ All done?  Copy your finished code into a new file so you don't loose your worki
       ...
     ]
   ```
-* Read & write from a .csv (comma separated value) file:
+* Read & write from a .txt file organized like this:
   * `"key 1":"value 1","key 2:"value 2",...`
 * Make a better User Experience
   * Create a `package.json` file in this directory (`$ npm init`)
