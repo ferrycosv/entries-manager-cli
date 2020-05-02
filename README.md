@@ -36,4 +36,22 @@ Fill in the blanks!
 
 ---
 
+## Challenges
+
+All done?  Copy your finished code into a new file so you don't loose your working code, and refactor the new file to:
+
+* Read & write from a .json file with this schema:
+  * ```
+    [
+      {key1: "value 1"},
+      {key2: "value 2"},
+      ...
+    ]
+  ```
+* Read & write from a .csv (comma separated value) file:
+  * `"key 1":"value 1","key 2:"value 2",...`
+* Make a better User Experience
+  * Create a `package.json` file in this directory (`$ npm init`)
+  * install [boxen](https://www.npmjs.com/package/boxen)
+  * log boxes instead of just text!
 
